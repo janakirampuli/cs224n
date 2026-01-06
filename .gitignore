@@ -1,0 +1,47 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.npz
+
+# Virtual environments
+cs224nenv/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# Build artifacts
+build/
+dist/
+*.so
+*.pyd
+*.dylib
+*.egg-info/
+.eggs/
+
+# C/C++/Cython intermediates
+*.o
+*.a
+*.out
+
+# Logs
+*.log
+
+# Test/coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Editor/IDE settings
+.vscode/
+.idea/
+
+# CS224n datasets and generated files
