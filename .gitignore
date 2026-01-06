@@ -45,3 +45,4 @@ htmlcov/
 .idea/
 
 # CS224n datasets and generated files
+a*/data/
