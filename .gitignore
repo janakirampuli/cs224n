@@ -46,3 +46,7 @@ htmlcov/
 
 # CS224n datasets and generated files
 a*/data/
+a*/runs
+a*/outputs
+
+a*/model.bin*
